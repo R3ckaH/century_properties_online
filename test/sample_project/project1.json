@@ -1,0 +1,51 @@
+[
+    {
+        "Project_ID": "AZURE",
+        "Project_Name": "THE AZURE URBAN RESORT RESIDENCES",
+        "Project_Description": "The first Azure development is a sprawling 6-hectare, multi-tower development that transports the resort experience right in the middle of the city, with a pristine man-made beach and the iconic Paris Beach Club designed by international style icon Paris Hilton.",
+        "URL": "https://www.century-properties.com/azs-360-ammenities/azs-360-amenities1/",
+        "Banner_URL": "https://test.centurypropertiesonline.com/images/new_main_projects/azure-south.jpg"
+    },
+    {
+        "Project_ID": "AZURN",
+        "Project_Name": "THE RESORT RESIDENCES AT AZURE NORTH",
+        "Project_Description": "A hidden beach cove and high rise resort-style living in the heart of San Fernando, Pampanga.",
+        "URL": "",
+        "Banner_URL": "https://test.centurypropertiesonline.com/images/new_main_projects/azure-north1.jpg"
+    },
+    {
+        "Project_ID": "BTLAO",
+        "Project_Name": "BATULAO ARTSCAPES",
+        "Project_Description": "An expansive designer-driven community nestled on the foothills of Mt. Batulao. Featuring renowned Filipino architects and designers, Batulao Artscapes is a haven shaped by design and grounded in natural beauty.",
+        "URL": "",
+        "Banner_URL": "https://test.centurypropertiesonline.com/images/new_main_projects/batulao.jpg"
+    },
+    {
+        "Project_ID": "CNTMM",
+        "Project_Name": "CENTURIA MEDICAL MAKATI",
+        "Project_Description": "Centuria Medical Makati, the largest, most comprehensive outpatient medical facility in the Philippines.",
+        "URL": "",
+        "Banner_URL": "https://test.centurypropertiesonline.com/images/new_main_projects/century_medical.jpg"
+    },
+    {
+        "Project_ID": "CNTRY",
+        "Project_Name": "CENTURY CITY",
+        "Project_Description": "Century City is a 3.4-hectare flagship development in Makati that will showcase upscale residences, a lifestyle center, an outpatient medical-it building and premiere offices.",
+        "URL": "",
+        "Banner_URL": "https://test.centurypropertiesonline.com/images/new_main_projects/century_city.jpg"
+    },
+    {
+        "Project_ID": "COMWL",
+        "Project_Name": "COMMONWEALTH BY CENTURY",
+        "Project_Description": "Reshaping the Quezon City skyline, this eight-tower mid-rise development features uncommon living spaces and amenities.",
+        "URL": "https://www.commonwealthbycentury.com/cmw-360-amenities/",
+        "Banner_URL": "https://test.centurypropertiesonline.com/images/new_main_projects/commonwealth.jpg"
+    },
+    {
+        "Project_ID": "COMWL",
+        "Project_Name": "THE RESIDENCES AT COMMONWEALTH",
+        "Project_Description": "Reshaping the Quezon City skyline, this eight-tower mid-rise development features uncommon living spaces and amenities.",
+        "URL": "https://www.commonwealthbycentury.com/cmw-360-amenities/",
+        "Banner_URL": "https://test.centurypropertiesonline.com/images/new_main_projects/commonwealth.jpg"
+    }
+]

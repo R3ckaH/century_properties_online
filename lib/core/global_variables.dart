@@ -1,0 +1,2 @@
+String GLOBAL_USERNAME = '';
+String GLOBAL_APISCHEDULE_URL = '';

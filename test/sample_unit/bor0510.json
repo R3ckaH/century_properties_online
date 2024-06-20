@@ -1,0 +1,57 @@
+[
+    {
+        "Area_Desc": "Design Option:",
+        "Area_Deliverable": "Unfurnished",
+        "Unit_Type": "1BR"
+    },
+    {
+        "Area_Desc": "Flooring-living, Dining, Kitchen:",
+        "Area_Deliverable": "Ceramic Tiles",
+        "Unit_Type": "1BR"
+    },
+    {
+        "Area_Desc": "Flooring-bedroom:",
+        "Area_Deliverable": "Pvc Planks",
+        "Unit_Type": "1BR"
+    },
+    {
+        "Area_Desc": "Flooring-balcony:",
+        "Area_Deliverable": "Ceramic Tiles",
+        "Unit_Type": "1BR"
+    },
+    {
+        "Area_Desc": "Ceiling:",
+        "Area_Deliverable": "White Paint",
+        "Unit_Type": "1BR"
+    },
+    {
+        "Area_Desc": "Walls:",
+        "Area_Deliverable": "Painted Finish with Baseboard",
+        "Unit_Type": "1BR"
+    },
+    {
+        "Area_Desc": "Living Room:",
+        "Area_Deliverable": "None",
+        "Unit_Type": "1BR"
+    },
+    {
+        "Area_Desc": "Dining Room:",
+        "Area_Deliverable": "None",
+        "Unit_Type": "1BR"
+    },
+    {
+        "Area_Desc": "Bedroom:",
+        "Area_Deliverable": "None",
+        "Unit_Type": "1BR"
+    },
+    {
+        "Area_Desc": "Bathroom:",
+        "Area_Deliverable": "Ceramic Tiles Lavatory Shower Water Closet",
+        "Unit_Type": "1BR"
+    },
+    {
+        "Area_Desc": "Kitchen: ",
+        "Area_Deliverable": "Solid surface countertop with cooktop Rangehood Modular Cabinet Sink and Faucet",
+        "Unit_Type": "1BR"
+    }
+]
